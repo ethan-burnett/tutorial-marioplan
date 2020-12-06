@@ -4,7 +4,7 @@ import 'firebase/auth';
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyAuXtZNzaxibbuF_UnG7RLtl_ufbOCDs0E",
+//apiKey: SOME KEY,
   authDomain: "panda-marioplan1.firebaseapp.com",
   databaseURL: "https://panda-marioplan1.firebaseio.com",
   projectId: "panda-marioplan1",
